@@ -1,4 +1,4 @@
-# Hi 👋, I'm Amanda Regina
+# Greetings 👋, I'm Amanda Regina!
 
 - 💻 A Backend Software Engineer from Brazil
 
