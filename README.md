@@ -42,6 +42,7 @@
 ### Framework
 <div style="display:inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 </div><br/>
 
 ### Database
