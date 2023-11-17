@@ -1,6 +1,6 @@
 # Greetings 👋, I'm Amanda Regina!
 
-- 💻 A Backend Software Engineer from Brazil
+- 💻 A Software Engineer from Brazil
 
 - ✨ I'm programming since 2019
 
