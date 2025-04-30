@@ -1,10 +1,9 @@
 # Greetings 👋, I'm Amanda Regina!
 
-- 💻 A Software Engineer from Brazil
-
-- ✨ I'm programming since 2019
-
--  📘 My hobby is reading, I love classic literature
+- 💻 A mid-level software engineer specializing in backend development, I possess experience in building and maintaining distributed systems as well as high-availability architectures.
+- ✨ I've been programming since 2019
+- 🔧 I work with C# and Typescript
+- 👾 My hobbies are reading, painting, and playing video games.
 
 <br/>
 
