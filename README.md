@@ -1,9 +1,9 @@
 # Greetings 👋, I'm Amanda Regina!
 
-- 💻 A mid-level software engineer specializing in backend development, I possess experience in building and maintaining distributed systems as well as high-availability architectures.
-- ✨ I've been programming since 2019
-- 🔧 I work with C# and Typescript
-- 👾 My hobbies are reading, painting, and playing video games.
+- 💻 Mid-level backend software engineer with experience in distributed systems and high-availability architectures
+- ✨ Programming since 2019  
+- 🔧 Working mostly with C# and TypeScript  
+- 🎮 Enjoy reading, painting, and playing video games in my free time 
 
 <br/>
 
